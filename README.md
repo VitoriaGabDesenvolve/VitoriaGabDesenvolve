@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou estudante de tecnologia apaixonada pelo desenvolvimento frontend. Amo criar interfaces bonitas e funcionais. Além disso, sou autodidata e estou sempre buscando aprender e melhorar minhas habilidades.
+Sou estudante de tecnologia no IFRN, faço curso técnico em Informática, apaixonada pelo desenvolvimento Web. Além disso, sou autodidata e estou sempre buscando aprender e melhorar minhas habilidades.
 
 ## Habilidades
 
