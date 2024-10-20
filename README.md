@@ -23,28 +23,25 @@ Sou estudante de tecnologia no IFRN, faço curso técnico em Informática, apaix
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VitoriaGabDesenvolve&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Educação
 
-- IFRN - Tecnico em Informática - 2025
+- IFRN - Tecnico em Informática - 2020 -> 2024
 
 ## Experiência Profissional
 
-- Dore Refrigerantes - Aprendiz De TI | Outubro de 2024 - Atualmente
+- Dore Refrigerantes - Aprendiz De TI | Outubro de 2023 - Atualmente
 
-   - Suporte ao usuário
    - Desenvolvimento
-   - Instalação de equipamentos
+   - Suporte ao usuário
+   - Suporte Técnico
 
 ---
 
 ## Contato
 
-<p align="left">
-  <a href="mailto:vitoriagabriely.desenvolvedora@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/vitoria-gabriely-s">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoria-gabriely-s/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vitoriagabriely.desenvolvedora@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitoriaincode/)
+
