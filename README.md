@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou estudante de tecnologia no IFRN, faço curso técnico em Informática, apaixonada pelo desenvolvimento Web. Além disso, sou autodidata e estou sempre buscando aprender e melhorar minhas habilidades.
+Sou técnica em Informática formada pelo IFRN e bacharelanda em Tecnologia da Informação na UFRN. No momento, estou estudando e desenvolvendo habilidades para atuar como engenheira de software.
 
 ## Habilidades
 
