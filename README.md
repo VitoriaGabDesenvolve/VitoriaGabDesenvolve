@@ -26,12 +26,13 @@ Sou técnica em Informática formada pelo IFRN e bacharelanda em Tecnologia da I
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaGabDesenvolve&langs_count=8&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ## Educação
 
-- IFRN - Tecnico em Informática - 2020 -> 2024
+- Universidade Federal do Rio Grande do Norte (UFRN) - Bacharelado em Tecnologia da Informação - 2025 ⇾ 2030
+- Instituto Federal do Rio Grande do Norte (IFRN) - Técnico em Informática - 2020 ⇾ 2024
 
 ## Experiência Profissional
 
-- Dore Refrigerantes - Aprendiz De TI | Outubro de 2023 - Atualmente
-
+- Sidore Industria - Técnica em TI | Janeiro de 2025 ⇾ Atualmente
+- Sidore Industria - Aprendiz De TI | Outubro de 2023 ⇾ Dezembro de 2024
    - Desenvolvimento
    - Suporte ao usuário
    - Suporte Técnico
